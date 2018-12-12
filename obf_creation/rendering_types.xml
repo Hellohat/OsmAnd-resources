@@ -5753,6 +5753,8 @@
 		<routing_type tag="maxspeed" value="ru:urban" tag2="maxspeed" value2="60" mode="replace" base="true"/>
 		<routing_type tag="maxspeed" value="ru:motorway" tag2="maxspeed" value2="110" mode="replace" base="true"/>
 		<routing_type tag="maxspeed" value="cz:urban" tag2="maxspeed" value2="50" mode="replace" base="true"/>
+		<routing_type tag="maxspeed" value="fr:urban" tag2="maxspeed" value2="50" mode="replace" base="true"/>
+		<routing_type tag="maxspeed" value="fr:rural" tag2="maxspeed" value2="80" mode="replace" base="true"/>
 		<routing_type tag="maxspeed" value="nl:urban" tag2="maxspeed" value2="50" mode="replace" base="true"/>
 		<routing_type tag="maxspeed" value="nl:rural" tag2="maxspeed" value2="80" mode="replace" base="true"/>
 		<routing_type tag="maxspeed" value="de:urban" tag2="maxspeed" value2="50" mode="replace" base="true"/>
